@@ -1,6 +1,7 @@
 # Mini GPT from Scratch 🔥
 
-A simple character-level GPT-style language model built from scratch using pure PyTorch — inspired by Andrej Karpathy’s nanoGPT.
+A simple character-level GPT-style language model built from scratch using pure PyTorch — inspired by 
+@Andrej Karpathy’s nanoGPT.
 
 🚀 Trained on Shakespeare text  
 🧠 Built without any high-level libraries — just tensors and math  
